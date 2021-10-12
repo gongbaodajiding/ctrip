@@ -4,7 +4,6 @@
     <list default="true" id="24d1523c-d05e-469e-8552-fbb9622feb74" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="format.on.save" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../java-script-master/JavaScript APIs 素材/xiaoqiang001-jsapis_material-master/jsapis_material/第七天/01-移动端轮播图" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/java-script-master/JavaScript APIs 素材/xiaoqiang001-jsapis_material-master/jsapis_material/第七天/01-移动端轮播图" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="actions.on.save" />
@@ -61,7 +60,6 @@
       <workItem from="1629338197081" duration="7688000" />
       <workItem from="1629426331770" duration="151000" />
       <workItem from="1633962199554" duration="2354000" />
-      <workItem from="1634014524441" duration="6280000" />
     </task>
     <servers />
   </component>
