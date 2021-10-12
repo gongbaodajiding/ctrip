@@ -83,6 +83,7 @@ li {
 
 .focus ul {
     width: 500%;
+    margin-left: -100%;
     overflow: hidden;
 }
 
